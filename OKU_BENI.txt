@@ -1,0 +1,13 @@
+ÇABUK GELİR — Kurye uygulaması
+
+index.html dosyasını açın. Render Static Site için publish directory: .
+Orijinal Çabuk Gelir logosu şeffaf arka planlı hale getirildi, şekli değiştirilmedi.
+Beyti Kebap logosu, sipariş bildirimi, kabul, alım ve teslimat akışı korundu.
+Fiyat ve kazanç gösterimi bulunmaz.
+Kodu düzenlemek için veri.js ve stil.css kullanın.
+
+LOGO: assets/cabuk-gelir-logo.png = onaylı logonun temizlenmiş hali.
+Logonun şekli değiştirilmedi; sadece etrafındaki beyaz kenar, gri çerçeve ve
+kaydırma çubuğu (ekran görüntüsünden kalan) temizlendi, arka plan şeffaf yapıldı.
+Pembe zemini CSS veriyor: stil.css en üstteki --pink (#e891b4, logodaki pembeyle aynı).
+Verilen dosyanın kendisi: assets/cabuk-gelir-logo-orijinal.png
